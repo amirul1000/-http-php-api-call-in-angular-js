@@ -3,7 +3,7 @@
 $http GET & POST METHOD PHP API call in Angular JS
 ===================================================
 
-Data is passing through ajax and API with JSON data
+Data is passing through $http Service and API with JSON data
 and we are parsing that data and displaying
 
 
