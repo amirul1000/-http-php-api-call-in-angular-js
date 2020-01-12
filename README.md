@@ -1,16 +1,13 @@
 "# http-php-api-call-in-angular-js" 
 
+$http GET & POST method PHP API call in Angular JS
+===================================================
+
+Data is passing through ajax and API with JSON data
+and we are parsing that data and displaying
 
 
-
-
-
-
-
-
-
-
-Youtube Tutorial : https://youtu.be/HPm-7UUGqtE
+Youtube Tutorial : https://youtu.be/qs5zIIXN1Xc
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
