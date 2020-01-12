@@ -1,6 +1,6 @@
 "# http-php-api-call-in-angular-js" 
 
-$http GET & POST method PHP API call in Angular JS
+$http GET & POST METHOD PHP API call in Angular JS
 ===================================================
 
 Data is passing through ajax and API with JSON data
